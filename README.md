@@ -6,9 +6,9 @@
   <h3 align="center">Wavesonic 🌊</h3>
 
   <p align="center">
-      Some TAGLINE
+      Elevate Your Sound Experience: Visualize, Feel, Connect!
     <br />
-    <a href=""><strong>Go to App »</strong></a>
+    <a href="https://wavesonic.netlify.app/"><strong>Go to App »</strong></a>
     <br />
     <br />
     <a href="https://github.com/prerana1821/wavesonic/pulls">Raise a PR</a>
@@ -20,7 +20,7 @@
 </div>
 
 <p align="center">
-
+Introducing our innovative audio visualization app, where you can bring your music to life like never before. With just a few clicks, upload your favorite audio files and watch as vibrant sound bars dance across the screen, reflecting the rhythm and intensity of the music. Dive into the world of audio visualization and experience your music in a whole new light. Whether you're a music enthusiast, a casual listener, or a creative mind seeking inspiration, our app offers an engaging and immersive way to interact with your audio content. Let the sound speak to you, and embark on a captivating journey of sight and sound with our audio visualization app.
 </p>
 
 ## Demo
