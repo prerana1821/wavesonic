@@ -3,10 +3,21 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
     <title>Wavesonic</title>
   </head>
   <body>
+    <header>
+      <img class="logo" src="./logo.gif" alt="Wavesonic" />
+      <h1 class="site-title">Welcome to Wavesonic!</h1>
+    </header>
+    <div class="audio-input">
+      Upload Audio
+      <input type="file" accept="audio/*" />
+    </div>
+    <audio></audio>
+    <canvas></canvas>
     <script src="./script.js"></script>
   </body>
 </html>
