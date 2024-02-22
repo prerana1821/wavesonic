@@ -52,7 +52,7 @@ No installation is required. Simply open the project in a web browser to start d
 
 ## Contributing
 
-I welcome contributions from the community to improve Skillful CV. If you find a bug or have an idea for a new feature, feel free to create an issue or submit a pull request.
+I welcome contributions from the community to improve Wavesonic. If you find a bug or have an idea for a new feature, feel free to create an issue or submit a pull request.
 
 ## License
 
