@@ -29,27 +29,11 @@
 
 ## Key Features
 
-Audio Upload and Visualization:
-
-1. Audio Upload Functionality:
-
-- Supports various audio formats.
-
-2. Audio Visualization:
-
-- Visualizes audio data in real-time using a canvas element.
-
-3. Dynamic Sound Bars:
-
-- Provides a visual representation of audio frequency and intensity.
-
-4. Audio Processing:
-
-- Utilizes the Web Audio API for audio processing.
-
-5. Real-time Visualization:
-
-- Creates an Audio Context, Audio Source, Analyser, and Audio Destination for sound manipulation and visualization in real-time as the audio plays..
+- Audio Upload Functionality: Supports various audio formats.
+- Audio Visualization: Visualizes audio data in real-time using a canvas element.
+- Dynamic Sound Bars: Provides a visual representation of audio frequency and intensity.
+- Audio Processing: Utilizes the Web Audio API for audio processing.
+- Real-time Visualization: Creates an Audio Context, Audio Source, Analyser, and Audio Destination for sound manipulation and visualization in real-time as the audio plays..
 
 ## Technologies Used
 
