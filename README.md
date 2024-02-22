@@ -25,11 +25,42 @@
 
 ## Demo
 
+[need to add a link]
+
 ## Key Features
+
+Audio Upload and Visualization:
+
+1. Audio Upload Functionality:
+
+- Supports various audio formats.
+
+2. Audio Visualization:
+
+- Visualizes audio data in real-time using a canvas element.
+
+3. Dynamic Sound Bars:
+
+- Provides a visual representation of audio frequency and intensity.
+
+4. Audio Processing:
+
+- Utilizes the Web Audio API for audio processing.
+
+5. Real-time Visualization:
+
+- Creates an Audio Context, Audio Source, Analyser, and Audio Destination for sound manipulation and visualization in real-time as the audio plays..
 
 ## Technologies Used
 
+- HTML5/CSS
+  - Canvas API: Renders dynamic sound bars for audio visualization.
+- JavaScript:
+  - Web Audio API: Analyzes and processes audio data for visualization.
+
 ## Blogs to be written based on my learnings
+
+- [ ] How to use the Web Audio API for audio processing?
 
 ## Installation
 
