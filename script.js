@@ -50,11 +50,11 @@ input.addEventListener("change", () => {
     analyser.getByteFrequencyData(bufferDataArr); //retrieves frequency data from the analyser node and stores it in the bufferDataArr
 
     bufferDataArr.forEach((dataValue) => {
-      const barHeight = dataValue;
+      const barHeight = dataValue; // dataValue represents intensity of the audio signal
 
-      const red = (barHeight * 2) % 150;
-      const green = (barHeight * 5) % 200;
-      const blue = (barHeight * 7) % 120;
+      const red = (barHeight * 2) % 150; // 0 to 149 - make more noticeable and to keep the resulting value within a certain
+      const green = (barHeight * 5) % 200; // 0 to 199
+      const blue = (barHeight * 7) % 120; // 0 to 119
 
       tool.fillStyle = `rgb(${red}, ${green}, ${blue})`;
       tool.fillRect(x, canvas.height - barHeight, barWidth, barHeight);
